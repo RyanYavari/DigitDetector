@@ -1,10 +1,11 @@
 # By Ryan Yavari
 
-#Demo
+
 <video width="600" controls>
-  <source src="DigitDetector Demo.mp4" type="video/mp4">
+  <source src="demo/DigitDetector%20Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 
 # Running the Application
