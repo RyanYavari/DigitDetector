@@ -1,7 +1,10 @@
 # By Ryan Yavari
 
 #Demo
-[Download Video][DigitDetector Demo.mkv]
+<video width="600" controls>
+  <source src="DigitDetector Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 # Running the Application
