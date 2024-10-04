@@ -1,6 +1,7 @@
 # By Ryan Yavari
 
-
+#Demo
+[Download Video][DigitDetector Demo.mkv]
 
 
 # Running the Application
