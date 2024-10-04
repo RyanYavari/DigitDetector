@@ -1,4 +1,4 @@
-# By Ryan Yavari & Aditya Nair
+# By Ryan Yavari
 
 
 
