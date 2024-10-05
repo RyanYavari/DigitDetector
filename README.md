@@ -1,7 +1,9 @@
 # By Ryan Yavari
 
 
-[Download Demo Video](demo/DigitDetector%20Demo.mp4)
+# Demo
+https://github.com/user-attachments/assets/24920e3d-10ae-4a9b-9b57-ba392aa6b6bc
+
 
 
 
